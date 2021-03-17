@@ -1,0 +1,7 @@
+# CreativeTab
+itemGroup.ItemTab=CraftingTree
+
+# Items
+item.ctree_manual.name=CraftingTree Manual
+gui.manual.text=Press %s while hovering over an item.
+main.keyBinding.text=View CTree
